@@ -1,0 +1,15 @@
+Week 2 Quiz
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////
+
+1.Question 1
+Which term is used to refer to a Layer 2 PDU?​
+Ans:-
+frame
+
+
+2.Question 2
+When a computer assembles a frame to be sent over the network, what is the maximum size of an Ethernet frame?
+Ans:-
+1518 bytes

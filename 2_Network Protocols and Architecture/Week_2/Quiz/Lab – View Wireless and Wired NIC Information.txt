@@ -1,0 +1,16 @@
+Lab – View Wireless and Wired NIC Information
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////////
+
+1.Question 1
+Refer to the activity. What should always be enabled or configured for a wireless NIC when available?
+Ans:-
+security
+
+
+2.Question 2
+What two methods can be used to find the IP address for a wireless connection on a Windows 10 PC? (Choose 2.)
+Ans:-
+Issue the ipconfig /all from the command prompt.
+Click Details from the Wireless Connection Status window.

@@ -1,0 +1,25 @@
+Lab – Address Resolution Protocol (ARP)
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////////////////
+
+1.Question 1
+Refer to the activity. What are three reasons to use Wireshark? (Choose 3.)
+Ans:-
+troubleshoot network connectivity
+capture and analyze data packets
+view the MAC and IP address of multiple hosts
+
+
+2.Question 2
+Refer to the activity. Which two statements are indicators that a data frame in a packet capture is an ARP request? (Choose 2.)
+Ans:-
+The destination MAC address in the frame is all F's.
+The target MAC address in the ARP request is all 0's.
+
+
+3.Question 3
+Refer to the activity. Which device will not forward an ARP request to other hosts in the network?
+Ans:-
+Router
+

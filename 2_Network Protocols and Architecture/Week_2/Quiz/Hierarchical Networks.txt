@@ -1,0 +1,25 @@
+Hierarchical Networks
+LATEST SUBMISSION GRADE
+100%
+////////////////////////
+
+1.Question 1
+What are two reasons to create a hierarchical network design for an Ethernet network? (Choose 2.)
+Ans:-
+Locating a host in a smaller network is easier than one large Ethernet network.
+It will help to minimize the amount of broadcast traffic that Ethernet hosts will have to process.
+
+
+2.Question 2
+What are the three layers of the hierarchical design model? (Choose 3.)
+Ans:-
+distribution layer
+core layer
+access layer
+
+
+3.Question 3
+Which layer provides connections to hosts in a local Ethernet network?
+Ans:-
+access layer
+
