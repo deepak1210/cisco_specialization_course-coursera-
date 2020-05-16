@@ -1,0 +1,24 @@
+Activity - Service to Client Request
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////////
+
+1.Question 1
+Refer to the activity. What is common between all of the protocols and services listed in the activity?
+Ans:-
+They all belong to the TCP/IP protocol suite.
+
+
+2.Question 2
+Refer to the activity. Which three protocols are associated with sending, receiving and processing email between a client and a server? (Choose 3.)
+Ans:-
+SMTP
+POP3
+IMAP
+
+
+3.Question 3
+Refer to the activity. What protocol is used to transfer information between web clients and servers?
+Ans:-
+HTTP
+

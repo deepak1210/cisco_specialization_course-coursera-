@@ -1,0 +1,20 @@
+PT Activity – Configure DHCP on a Wireless Router
+LATEST SUBMISSION GRADE
+100%
+///////////////////////////////////
+
+1. Refer to the activity. What three parameters are configured on a typical wireless home router with DHCP services enabled to provide host addressing configuration to DHCP clients? (Choose 3.)
+Ans:-
+Starting IP Address
+Max number of DHCP users
+DHCP pool range
+
+
+2.Question 2
+Refer to the activity. What three key pieces of information must the DHCP server provide to the client to allow for network connectivity? (Choose 3.)
+Ans:-
+default gateway
+subnet mask
+IP address
+
+

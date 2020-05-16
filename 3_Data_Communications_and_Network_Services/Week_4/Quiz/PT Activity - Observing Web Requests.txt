@@ -1,0 +1,23 @@
+PT Activity - Observing Web Requests
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////
+
+1.Question 1
+Refer to the activity. What is the IP address of the ciscolearn.web.com server?
+Ans:-
+172.16.15.200
+
+
+2.Question 2
+Refer to the activity. In the activity, you filtered the protocol traffic. If the filter was not used, what other protocols might appear in the list when for this web requests and response? (Choose 2.)
+Ans:-
+ARP
+DNS
+
+
+3.Question 3
+What is the difference between HTML and HTTP?
+Ans:-
+HTML is used to create and format Web pages while HTTP is used to transmit the web pages over the network.
+

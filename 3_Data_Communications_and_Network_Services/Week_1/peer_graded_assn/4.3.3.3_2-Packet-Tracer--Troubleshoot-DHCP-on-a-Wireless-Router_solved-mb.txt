@@ -1,0 +1,33 @@
+
+PROMPT 1
+Part 1: Was an IPv4 address assigned to PC0?
+
+Part 2: PCs can have different types of addresses. Use the Internet to look up the address that starts with 169.254.x.x. What is the name of this type of address?
+
+Part 3: When is the type of address listed in Part 2 assigned to a host?
+
+1. No.
+2. It is the Automatic Private IP Addressing or APIPA before establishing a DHCP connection.
+3. Windows at the initial step cannot contact DHCP, it takes some time. So before the successful establishment of a DHCP connection, APIPA is assigned to host.
+
+/////////////////////////////////////////////
+
+PROMPT 2
+Part 1: Why was PC0 not able to connect to the network?
+
+Part 2: What can be done to fix PC0?
+
+1. Copper cross-over wire was used instead of copper straight-through wire.
+2. Copper straight-through wire must be connected.
+
+//////////////////////////////////////////////////////
+
+PROMPT 3
+Part 1: Why was PC2 not able to connect?
+
+Part 2: What should be done to fix the problem?
+
+1. Because the ethernet connection was not given from pc2 to router.
+2. Ethernet connection has to be given from pc2 to router via copper straight-through wire.
+
+////////////////////////////////////////////////////

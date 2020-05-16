@@ -1,0 +1,50 @@
+Week 4 Quiz
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////
+
+1.Question 1
+What is the advantage of using SSH over Telnet?
+Ans:-
+SSH provides secure communications to access hosts.
+
+
+2.Question 2
+Which two applications provide virtual terminal access to remote servers? (Choose two.)
+Ans:-
+Telnet
+SSH
+
+
+3.Question 3
+What action does a DNS server take if it does not have an entry for a requested URL?
+Ans:-
+The server checks with another DNS server to see if it has an entry.
+
+
+4.Question 4
+Which three protocols operate at the application layer of the TCP/IP model? (Choose three.)
+Ans:-
+POP3
+FTP
+DHCP
+
+
+5.Question 5
+Which communication tool allows multiple users to communicate with each other in real time by using a smartphone application or social media site?
+Ans:-
+instant messaging
+
+
+6.Question 6
+What type of server would use IMAP?
+Ans:-
+email
+
+
+7.Question 7
+Refer to the exhibit. Which protocol allows a user to type www.cisco.com instead of an IP address to access the web server?
+Ans:-
+DNS
+
+

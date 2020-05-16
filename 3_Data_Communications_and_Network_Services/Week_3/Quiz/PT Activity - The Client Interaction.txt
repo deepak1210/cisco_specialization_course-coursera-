@@ -1,0 +1,24 @@
+PT Activity - The Client Interaction
+LATEST SUBMISSION GRADE
+100%
+///////////////////
+
+1.Question 1
+Refer to the activity. In the activity, you typed "www.example.com" into the URL box of the web browser for the PC. What two steps must the PC take to determine if the network that houses www.example.com is local or remote? (Choose 2.)
+Ans:-
+Use DNS services to resolve the URL to an IP address.
+Use the subnet mask configured on the PC to determine if the network is local or remote.
+
+
+2.Question 2
+Refer to the activity. What destination port number was used in the segment that went from the client to the web server for the web page request?
+Ans:-
+80
+
+
+3.Question 3
+Refer to the activity. What allows the server to process different requests and to distinguish between the DNS and web services requested by the host?
+Ans:-
+port numbers
+
+

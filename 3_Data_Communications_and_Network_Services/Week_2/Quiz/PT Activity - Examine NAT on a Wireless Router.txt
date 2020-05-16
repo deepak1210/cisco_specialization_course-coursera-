@@ -1,0 +1,20 @@
+PT Activity - Examine NAT on a Wireless Router
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////////
+
+1. Refer to the activity. What type of address does the router receive from the ISP and why?
+Ans:-
+The router receives a public IP address so data coming from the network is routable.
+
+
+2.Question 2
+Refer to the activity. What address changes in a packet during the NAT process as the packet leaves the router destined for a remote host over the Internet?
+Ans:-
+local source IP address
+
+
+3.Question 3
+Refer to the activity. If all of the hosts are using the same public IP address to send packets, how does the router distinguish the data
+Ans:-
+It builds and stores NAT table that shows mappings of inside local address to the inside global host address

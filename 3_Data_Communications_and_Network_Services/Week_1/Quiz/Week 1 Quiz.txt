@@ -1,0 +1,36 @@
+Week 1 Quiz
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1.Question 1
+What is the destination MAC address that is used in a DHCP Discover frame?
+Ans:-
+FF-FF-FF-FF-FF-FF
+
+
+2.Question 2
+Which destination IPv4 address does a DHCPv4 client use to send the initial DHCP Discover packet when the client is looking for a DHCP server?
+Ans:-
+255.255.255.255
+
+
+3.Question 3
+Which type of packet is sent by a DHCP server after receiving a DHCP Discover message?
+Ans:-
+DHCP Offer
+
+
+4.Question 4
+Which three addresses are not allowed to be in the DCHP pool for clients? (Choose 3.)
+Ans:-
+network broadcast address
+router interface address
+network address
+
+
+5.Question 5
+In which order do the DHCP messages occur when a client and server are negotiating address configuration?
+Ans:-
+DHCPDISCOVER, DHCPOFFER, DHCPREQUEST, DHCPACK
+

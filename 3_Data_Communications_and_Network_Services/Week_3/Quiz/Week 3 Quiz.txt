@@ -1,0 +1,61 @@
+Week 3 Quiz
+LATEST SUBMISSION GRADE
+100%
+///////////////////////////////
+
+1.Question 1
+At which layer of the TCP/IP model does TCP operate?
+Ans:-
+transport
+
+
+2.Question 2
+Which two protocols are used in the process of sending and receiving emails? (Choose two.)
+Ans:-
+POP
+SMTP
+
+
+3.Question 3
+At what layer of the OSI model are port numbers addressed?​
+Ans:-
+transport
+
+
+4.Question 4
+What is a "best effort" protocol well suited for streaming audio and VoIP?
+Ans:-
+UDP
+
+
+5.Question 5
+What is used by TCP and UDP to track multiple individual conversations between clients and servers?​
+Ans:-
+port numbers
+
+
+6.Question 6
+A _______ is a host that runs software to provide information, such as web content, to other hosts.
+Ans:-
+server
+
+
+7.Question 7
+A _______ center is a facility used to house computer systems in an enterprise network.
+Ans:-
+data
+
+
+8.Question 8
+Transport layer ports 1 through _______ are used to identify well-known ports.
+Ans:-
+1023
+
+
+9.Question 9
+Which three pieces of information are identified by a URL? (Choose three.)
+Ans:-
+the protocol that is being used
+the location of the resource
+the domain name that is being accessed
+

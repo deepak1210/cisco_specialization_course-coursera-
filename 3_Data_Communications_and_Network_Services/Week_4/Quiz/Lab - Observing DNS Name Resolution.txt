@@ -1,0 +1,17 @@
+Lab - Observing DNS Name Resolution
+LATEST SUBMISSION GRADE
+100%
+///////////////////////////////
+
+1.Question 1
+Refer to the activity. You type the command ping www.cisco.com. What is the one of the first tasks that must occur before the first successful ping can occur?
+Ans:-
+The domain name must be translated to an IP address.
+
+
+2.Question 2
+Refer to the activity. What information is provided when the nslookup command is issued at the command prompt?
+Ans:-
+IPv4 and IPv6 addresses for the domain name
+
+

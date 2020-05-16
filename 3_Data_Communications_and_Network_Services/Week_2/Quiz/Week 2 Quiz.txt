@@ -1,0 +1,34 @@
+Week 2 Quiz
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1.Question 1
+Which function does NAT perform in a wireless router?
+Ans:-
+NAT takes an internal source IP address and translates it to a global IP address.
+
+
+2.Question 2
+What is the primary motivation for development of IPv6?
+Ans:-
+expanded addressing capabilities
+
+
+3.Question 3
+How many binary bits exist within an IPv6 address?
+Ans:-
+128
+
+
+4.Question 4
+Refer to the exhibit. What is an equivalent representation of the full IPv6 address?
+Ans:-
+2031:0:300::C0:8000:130B
+
+
+5.Question 5
+Refer to the exhibit. A technician has configured a user workstation with the information shown. Although the user can access all local LAN resources, the user cannot access any Internet sites by using either domain names or IP addresses. What is causing this failure?
+Ans:-
+The default gateway address is incorrect.
+

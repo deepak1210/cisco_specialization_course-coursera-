@@ -1,0 +1,25 @@
+Static and Dynamic Address Assignments
+LATEST SUBMISSION GRADE
+100%
+///////////////////////////////////
+
+1.Question 1
+How do you enable DHCP on a Windows PC client?
+Ans:-TCP/IP properties and change the IP address to automatic.
+
+
+2.Question 2
+What is a benefit of assigning a static IP address to a client?
+Ans:-easy and consistent access to a device in use by everyone such as a printer or server.
+
+
+3.Question 3
+Refer to the exhibit. You decided to statically assign an address to your network. After using the ping command to verify connectivity, the ping request replies timeout. What is the most likely cause of the problem?
+Ans:-The default gateway and the hosts are not on the same network.
+
+
+4.Question 4
+What is the purpose of DHCP?
+Ans:-provides a mechanism for the automatic assignment of addressing information for a client
+
+
