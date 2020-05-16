@@ -1,0 +1,33 @@
+Week 3 Quiz
+LATEST SUBMISSION GRADE
+100%
+///////////////////////
+
+1.Question 1
+What address type does a switch use to make selective forwarding decisions?
+Ans:-
+destination MAC
+
+
+2.Question 2
+What role does a router play on a network?
+Ans:-
+selecting the path to destination networks
+
+
+3.Question 3
+What type of information is contained in a switch MAC table?
+Ans:-
+switch ports associated with destination MAC addresses
+
+
+4.Question 4
+What is the purpose of the core layer in the Cisco hierarchical network design model?
+Ans:-
+high-speed backbone switching
+
+
+5.Question 5
+Fill in the blank. A default ______ must be configured on an IP-enabled end device so that the device can communicate with devices on different IP networks.​
+Ans:-
+gateway

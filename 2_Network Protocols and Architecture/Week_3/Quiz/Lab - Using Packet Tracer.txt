@@ -1,0 +1,16 @@
+Lab - Using Packet Tracer
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////
+
+1.Question 1
+Refer to the activity. Which command is used on a Windows PC to display the ARP table?
+Ans:-
+arp -a
+
+
+2.Question 2
+What is found in the ARP table of a Windows PC?
+Ans:-
+IP addresses and the corresponding MAC address
+

@@ -1,0 +1,22 @@
+PT Activity – IPv4 Addresses and Network Communication
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////////
+
+1.Question 1
+Refer to the PT Activity. In Step 5, why was the initial ping unsuccessful?
+Ans:-
+The ping was unsuccessful because PC-A and PC-B are no longer in the same subnet.
+
+
+2.Question 2
+Refer to the PT Activity. What had to be done to correct the lack of connectivity in step 5?
+Ans:-
+Change the IP address on one of the PCs.
+
+
+3.Question 3
+Refer to the Activity. What type of networking device would allow the PCs to communicate even though they are on different networks?
+Ans:-
+router
+

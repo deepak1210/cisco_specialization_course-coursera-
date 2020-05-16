@@ -1,0 +1,24 @@
+PT Activity - Connect to a Wireless Router
+LATEST SUBMISSION GRADE
+100%
+//////////////////////
+
+1.Question 1
+Refer to the activity. How many LANs connect PCs to the wireless router in the activity?
+Ans:-
+1
+
+
+2.Question 2
+Refer to the activity. What devices will process a broadcast message sent from PC1? (Choose all that apply.)
+Ans:-
+PC2
+Wireless Router
+
+
+3.Question 3
+Refer to the activity. What are two possible reasons that you may want to connect a device through the wired ports of a wireless router? (Choose 2.)
+Ans:-
+Wired connections are typically faster and more secure than wireless connections.
+Some older devices may not have a wireless NIC to connect to the wireless portion of the router.
+
