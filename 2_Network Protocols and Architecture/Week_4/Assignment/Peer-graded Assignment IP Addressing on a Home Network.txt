@@ -1,0 +1,22 @@
+PROMPT
+Upload your excel spreadsheet that contains your addressing scheme for your network.
+
+Course2_Peer_Review_Assignment.xlsx
+
+/////////////////////////////
+
+PROMPT
+What IPv4 network address and subnet mask combination did you choose and why?
+
+The range of private IP addresses used is 192.168.0.0 /16 or 192.168.0.0 to 192.168.255.255. Subnet mask combination used is 255.255.0.0. 
+Devices must have a unique IPv4 address in given local network. There are 254 available addresses(255-1). The rest of the address is for Network ID(NID) and Broadcast ID(BID). So hosts are not assigned with NID and BID.
+
+/////////////////////////////////
+
+PROMPT
+The default gateway on the Home Router was provided.
+
+What type of address is the default gateway on the Home Router?
+Why is it different than the addresses used on the home network?
+When would this address be used?
+1. It is a public IPv4 address assigned by the Internet Service Provider (ISP).2. The Home Network devices are private address which is not routable on the Internet. Network Address Translation(NAT) is used to convert from private to public addressing so the routing happens successfully. 3. The default gateway address is used when destination devices are in different networks. So for sending data packets from Home Network to a device on a different network such as the Internet, the default gateway address is used.

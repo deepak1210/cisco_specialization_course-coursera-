@@ -1,0 +1,24 @@
+PT Activity - Connecting to a Web Server
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1.Question 1
+Refer to the activity. When a ping is sent from PC0 to test connectivity between the PC0 and the LearnIP Web Server, what will be the destination IP address in the packet?
+Ans:-
+172.33.100.50
+
+
+2.Question 2
+Refer to the activity. How does PC0 know that it must send the packets to its default gateway to reach the LearnIP Web Server?
+Ans:-
+The subnet mask on PC0 is used with the IP address of the server and shows that it is on a different network.
+
+
+3.Question 3
+Refer to the activity. PC0 knows that it needs to send a ping to the server to test connectivity. Initially, PC0 does not know the MAC address for the destination. What three things will most likely happen? (Choose 3.)
+Ans:-
+PC0 will use the ARP process to find the destination MAC address.
+The router will respond with its own MAC address since the server is on a different network.
+The first ping request may time out.
+

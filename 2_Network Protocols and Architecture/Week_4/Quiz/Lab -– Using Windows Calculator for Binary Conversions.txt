@@ -1,0 +1,27 @@
+Lab -– Using Windows Calculator for Binary Conversions
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1.Question 1
+Refer to the activity. What is the binary equivalent of 254?
+Ans:-
+11111110
+
+
+2.Question 2
+What is the decimal equivalent of 11011011?
+Ans:-
+219
+
+
+3.Question 3
+Refer to the activity. A network designer provided 3 bits for hosts addresses. How many hosts addresses are available to be assigned to hosts?
+Ans:-
+6
+
+
+4.Question 4
+Refer to the activity. A network designer provided 8 bits for hosts addresses. How many hosts addresses are available to be assigned to hosts?
+Ans:-
+254

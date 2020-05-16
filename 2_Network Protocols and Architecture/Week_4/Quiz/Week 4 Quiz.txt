@@ -1,0 +1,64 @@
+Week 4 Quiz
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////
+
+1.Question 1
+A technician is setting up equipment on a network. Which three devices will need IP addresses? (Choose three.)
+Ans:-
+a printer with an integrated NIC
+an IP phone
+a server with two NICs
+
+
+2.Question 2
+What are three characteristics of multicast transmission? (Choose three.)
+Ans:-
+The range of 224.0.0.0 to 224.0.0.255 is reserved to reach multicast groups on a local network.
+A single packet can be sent to a group of hosts.
+Multicast transmission can be used by routers to exchange routing information.
+
+
+3.Question 3
+What type of message is sent to a specific group of hosts?
+Ans:-
+multicast
+
+
+4.Question 4
+What are two differences between binary and decimal numbers? (Choose two.)
+Ans:-
+Binary numbers are based on powers of 2.
+Decimal numbers include 0 through 9.
+
+
+5.Question 5
+How many usable hosts are available given a Class C IP address with the default subnet mask?
+Ans:-
+254
+
+
+6.Question 6
+Which network does a host with IP address 172.32.65.13 reside on if it is using a default subnet mask?
+Ans:-
+172.32.0.0
+
+
+7.Question 7
+Which IP address type is intended for a specific host?
+Ans:-
+unicast
+
+
+8.Question 8
+What are three private IPv4 address? (Choose three.)
+Ans:-
+10.1.1.1
+172.16.4.4
+192.168.5.5
+
+
+9.Question 9
+When IPv4 is configured for a computer on a network, what does the subnet mask identify?
+Ans:-
+the part of the IP address that identifies the network
