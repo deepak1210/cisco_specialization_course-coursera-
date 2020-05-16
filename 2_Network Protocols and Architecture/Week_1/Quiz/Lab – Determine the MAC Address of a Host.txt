@@ -1,0 +1,24 @@
+Lab – Determine the MAC Address of a Host
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////
+
+1.Question 1
+Refer to the activity. What is the number of hexadecimal digits used to represent a MAC address?
+Ans:-
+12
+
+
+2.Question 2
+Refer to the activity. Which three statements describes a MAC address and how it functions? (Choose 3.)
+Ans:-
+Every Ethernet NIC is assigned a MAC address when it is manufactured.
+The MAC address represents the physical address for the device.
+A device can have more than one MAC address.
+
+
+3.Question 3
+Refer to the activity. Which command is used to identify the MAC address of a PC?
+Ans:-
+ipconfig /all
+

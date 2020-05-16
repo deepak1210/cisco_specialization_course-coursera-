@@ -1,0 +1,65 @@
+Week 1 Quiz
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1.Question 1
+Which type of network model describes the functions that must be completed at a particular layer, but does not specify exactly how each protocol should work?
+Ans:-
+reference model
+
+
+2.Question 2
+Which three elements do all communication methods have in common? (Choose three.)
+Ans:-
+message destination
+transmission medium
+message source
+
+
+3.Question 3
+Which three layers of the OSI model make up the application layer of the TCP/IP model? (Choose three.)
+Ans:-
+application
+session
+presentation
+
+
+4.Question 4
+Which two layers of the OSI model specify protocols that are associated with Ethernet standards? (Choose two.)
+Ans:-
+data link layer
+physical layer
+
+
+5.Question 5
+Which term refers to the set of rules that define how a network operates?
+Ans:-
+standard
+
+
+6.Question 6
+What makes it possible for e-mail to be sent and received on a wide variety of devices, including cell phones, PDAs, laptops, and desktop computers?
+Ans:-
+E-mail software is written using standards and protocols that ensure compatibility.
+
+
+7.Question 7
+FIll in the blank.
+The _________ address is a physical address assigned to every Ethernet network interface.​
+Ans:-
+MAC
+
+
+8.Question 8
+Fill in the blank.
+The __________ is an organization that develops and maintains Ethernet and wireless standards.​
+Ans:-
+IEEE
+
+
+9.Question 9
+Fill in the blank.
+The _______ model breaks network communications down into seven functional layers.
+Ans:-
+OSI
