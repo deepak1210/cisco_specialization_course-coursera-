@@ -1,0 +1,10 @@
+PT - Working in Physical View
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1. Which three features can be seen in the PT Physical View but not the Logical View? (Choose 3.)
+Ans:
+wiring rack
+attached cables
+link lights

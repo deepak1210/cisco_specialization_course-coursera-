@@ -1,0 +1,31 @@
+Getting Online
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////////
+
+1. What is a technology used in a cellular telephone network?
+Ans: Global System for Mobile Communications (GSM)
+
+
+2. A wireless network was recently installed in a coffee shop. The coffee shop staff are able to access the Internet but customer mobile devices are not receiving network configuration information. What should be done to correct the problem?
+Ans: Make sure the DHCP server is functional.
+
+
+3. Which network device is primarily used to translate a domain name to the associated IP address?
+Ans: DNS server
+
+
+4. Which wireless technology can be used to connect wireless headphones to a computer?
+Ans: Bluetooth
+
+
+5. Which IP configuration parameter provides the IP address of a network device that a computer would use to access the Internet?
+Ans: default gateway
+
+
+6. Which type of network component is used to interconnect computing devices?
+Ans: intermediate device
+
+
+7. Fill in the blank. When a network is installed in a high school, it is important for a network admin to create a ___ topology diagram to document where each host is located and how they are connected to the network.
+Ans: physical

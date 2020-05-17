@@ -1,0 +1,64 @@
+Communicating in a Connected World
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////
+
+1. What is the delay in the amount of time for data to travel between two points on a network?
+Ans: latency
+
+
+2. What terms represent the maximum and actual speed that can be utilized by a device to transfer data?
+Ans: bandwidth; throughput
+
+
+3. Which term correctly identifies the device type that is included in the area B?
+Ans: intermediary
+
+
+4. Which items are collectively referred to as network media?
+Ans: wires and radio waves
+
+
+5. Which term is used to describe a network device with the primary function of providing information to other devices?
+Ans: server
+
+
+6. Which criterion can be used to select the appropriate type of network media for a network?
+Ans: the environment where the selected medium is to be installed
+
+
+7. Which two devices are considered end devices? (Choose two.)
+Ans:
+laptop
+printer
+
+
+8. Fill in the blank. In fiber-optic media, the signals are represented as patterns of ___.
+Ans: light
+
+
+9. Which data unit term and value are correctly matched?
+Ans:
+A bit = a one or a zero
+A byte = eight bits
+A gigabyte = one billion bytes
+A megabyte = one million bytes
+
+
+10. Fill in the blank. Information in its raw or unorganized form that represents something is known as __.
+Ans: data
+
+
+11. Which three descriptions of data are correct? (Choose 3.)
+Ans:
+ASCII is a commonly used code for representing letters, numbers and special characters in bits that can be interpreted by a computer.
+Data bits are converted into signals before being transmitted over the medium.
+Volunteered data is created and explicitly shared by individuals.
+
+
+12. When a learner is visiting an e-learning site to learn about networking, the user computer is acting as what type of device?
+Ans: a client
+
+
+13. What is the internet?
+Ans: a worldwide collection of interconnected networks

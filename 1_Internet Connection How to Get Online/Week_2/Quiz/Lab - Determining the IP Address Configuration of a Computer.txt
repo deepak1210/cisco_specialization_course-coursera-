@@ -1,0 +1,18 @@
+Lab - Determining the IP Address Configuration of a Computer
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////////////////
+
+1. Which command was used to view the IP address configuration of the PC?¶
+Ans: ipconfig/ all
+
+
+2. What feature allows a device to obtain an address automatically?
+Ans: DHCP
+
+
+3. In addition to having a physical connection, which three configuration settings are required for a device to participate in the network? (Choose 3.)
+Ans:
+IP Address
+Default Gateway
+Subnet Mask

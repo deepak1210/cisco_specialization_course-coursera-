@@ -1,0 +1,15 @@
+Test Your Understanding of Packet Tracer
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////////
+
+1. Where can you create a new building and wiring closet?
+Ans: Physical Workspace
+
+
+2. Which button allows you to switch between workspaces?
+Ans: 1
+
+
+3. What is the cable type of the lightning icon?
+Ans: Automatically Choose Connection Type

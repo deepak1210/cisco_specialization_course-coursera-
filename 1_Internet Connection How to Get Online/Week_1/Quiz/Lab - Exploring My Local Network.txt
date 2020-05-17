@@ -1,0 +1,18 @@
+Lab - Exploring My Local Network
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////
+
+1. Which type of connectivity is used most frequently in your local network, wired or wireless?
+Ans:
+wired
+wireless
+cellular
+
+
+2. How has your home network changed in the last five years?
+Ans: In last five years, it becomes wired to wireless.
+
+
+3. Were you able to identify everything that was connected to your home network?
+Ans: Yes, i am able to identify everything that was connected to my home network.

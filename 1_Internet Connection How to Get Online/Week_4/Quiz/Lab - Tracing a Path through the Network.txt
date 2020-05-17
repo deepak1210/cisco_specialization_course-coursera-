@@ -1,0 +1,20 @@
+Lab - Tracing a Path through the Network
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1. Which three methods can be used to identify an IP address on the source device? (Choose 3.)
+Ans:
+use ipconfig or ipconfig/ all (or ifconfig when using Linux)
+view the IP address from the Network Adapter settings (or Network Connections on a Mac)
+view the IP address from the Internet Protocol/IPv4 Properties in a Windows machine.
+
+
+2. Which protocol translates the URL (www.cisco.com) to an IP address?
+Ans: Domain Name Service
+
+
+3. Which two commands will display the list of routers that a message or packet will traverse between source and destination? (Choose 2.)
+Ans:
+tracert 209.165.200.226
+traceroute 209.165.200.226

@@ -1,0 +1,24 @@
+My First Packet Tracer Lab
+LATEST SUBMISSION GRADE
+100%
+//////////////////////////////
+
+1. Refer to the activity. In the Building_a_network.pkt, explore the network. What is the IP address of the FastEthernet0 interface of PC0?
+Ans: 192.168.1.2
+
+
+2. Refer to the activity. In the Building_a_network.pkt, explore the network. Which device is the default gateway for PC0?
+Ans: Router R1
+
+
+3. Refer to the activity. In the Building_a_network.pkt, explore the network. What type of media is used between the different devices?
+Ans: straight-through Ethernet
+
+
+4. Refer to the activity. In the Building_a_network.pkt, explore the network.
+Click on PC0.
+Open the Desktop.
+Open the Command Prompt.
+Ping the other host in the network.
+How many successful packets were received by PC0?
+Ans: 3

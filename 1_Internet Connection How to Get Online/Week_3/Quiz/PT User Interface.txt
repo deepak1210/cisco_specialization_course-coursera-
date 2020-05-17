@@ -1,0 +1,18 @@
+PT User Interface
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////
+
+1. Refer to the exhibit. What three tasks can be done in area 5 shown in the exhibit (Choose 3.)?
+Ans:
+explore device configurations
+watch simulations
+create a network
+
+
+2. Which menu can be used to access tutorials and more information about the Packet Tracer version?
+Ans: Help
+
+
+3. What can be created in the Physical Workspace?
+Ans: a new city or building

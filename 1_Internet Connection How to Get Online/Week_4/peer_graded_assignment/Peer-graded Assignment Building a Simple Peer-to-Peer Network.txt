@@ -1,0 +1,38 @@
+PROMPT
+If you chose to do Packet Tracer, upload your saved .pka file of your network. If you chose to do the hands-on lab, upload a picture of your configured network (actual equipment).
+
+_55b8c9e969538cd5c2ddd2c19c83a461_1.3.1.2-Packet-Tracer---Building-a-Simple-Network%20%281%29.pka
+
+
+PROMPT
+Verification: Enter the results of your ipconfig/all or ifconfig command from PCA?
+
+FastEthernet0 Connection:(default port)
+
+Link-local IPv6 Address.........: FE80::209:7CFF:FE05:697
+IP Address......................: 192.168.1.10
+Subnet Mask.....................: 255.255.255.0
+Default Gateway.................: 0.0.0.0
+
+
+PROMPT
+Verification: Enter the results of a successful ping from PCB to PCA.
+
+Pinging 192.168.1.11 with 32 bytes of data:
+
+Reply from 192.168.1.11: bytes=32 time<1ms TTL=128
+Reply from 192.168.1.11: bytes=32 time=2ms TTL=128
+Reply from 192.168.1.11: bytes=32 time<1ms TTL=128
+Reply from 192.168.1.11: bytes=32 time<1ms TTL=128
+
+Ping statistics for 192.168.1.11:
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 0ms, Maximum = 2ms, Average = 0ms
+
+
+PROMPT
+What are the two key settings that had to be configured on each host to allow for connectivity in this peer-to-peer network?
+
+Configure IP address in FastEthernet and fix the subnet mask for both PC's.
+

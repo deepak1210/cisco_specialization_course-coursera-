@@ -1,0 +1,64 @@
+Building a Simple Peer-to-Peer Network
+LATEST SUBMISSION GRADE
+100%
+/////////////////////////////
+
+1. Which type of network cable is commonly used in backbone networks and telephone companies?
+Ans: fiber-optic cable
+
+
+2. Which type of Ethernet cable should be used to directly connect two devices that both use the same pins for transmitting and receiving data?
+Ans: crossover twisted-pair cable
+
+
+3. What are three characteristics of UTP cabling? (Choose three.)
+Ans:
+easiest type of networking cable to install
+susceptible to EMI and RFI
+most commonly used networking cable
+
+
+4. Which two criteria are used to help select a network medium for a network? (Choose two.)
+Ans:
+the environment where the selected medium is to be installed
+the distance the selected medium can successfully carry a signal
+
+
+5. Which type of network cable contains multiple copper wires and uses extra shielding to prevent interference?
+Ans: STP
+
+
+6. Which type of network cable is used to connect the components that make up satellite communication systems?
+Ans: coaxial
+
+
+7. What are two wiring schemes defined by the TIA/EIA organization for Ethernet installation in homes and businesses? (Choose two.)
+Ans:
+T568A
+T568B
+
+
+8. Which term describes the interference when electrical impulses from one cable cross over to an adjacent cable?
+Ans: crosstalk
+
+
+9. What are two sources of electromagnetic interference that can affect data transmissions? (Choose two.)
+Ans:
+fluorescent light fixture
+microwave oven
+
+
+10. What is the purpose of an IP address?
+Ans: It identifies the source and destination of data packets on a network.
+
+
+11. What type of network is defined by two computers that can both send and receive requests for resources?
+Ans: peer-to-peer
+
+
+12. Which statement describes the ping and tracert commands?
+Ans: Tracert shows each hop, while ping shows a destination reply only.
+
+
+13. What is an advantage of the peer-to-peer network model?
+Ans: ease of setup
