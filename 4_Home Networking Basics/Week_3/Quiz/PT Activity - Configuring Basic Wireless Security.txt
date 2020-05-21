@@ -1,0 +1,17 @@
+PT Activity - Configuring Basic Wireless Security
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////////////////////
+
+1. Refer to the activity. What was the SSID for the network?
+Ans: Academy
+
+
+2. Refer to the activity. What two things could be done to further strengthen the security of this router? (Choose 2).
+Ans:
+change the login password from the default password
+disable the SSID broadcast
+
+
+3. What statement describes WPA2?
+Ans: WPA2 uses a pre-shared key, the configured passphrase, for security

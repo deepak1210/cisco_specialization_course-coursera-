@@ -1,0 +1,19 @@
+PROMPT 1
+Which tool did you select? Name the tool, give a brief overview and identify the source (Internet, store).
+
+Virus protection It is designed to prevent viruses, worms and Trojan horses from getting onto a computer as well as remove any malicious software code that has already infected a computer. It may also prevent or remove unwanted spyware and adware in addition to other types of malicious programs.shopped from internet
+
+PROMPT 2
+What is the purpose of the tool?
+
+Virus protection software is designed to prevent viruses, worms and Trojan horses from getting onto a computer as well as remove any malicious software code that has already infected a computer. Most virus protection utilities now bundle anti-spyware and anti-malware capabilities to go along with anti-virus protection.
+
+PROMPT 3
+How will it be implemented in your home network?
+
+Firewalls help keep hackers from using your device to send out your personal information without your permission. While antivirus software scans incoming email and files, a firewall is like a guard, watching for attempts to access your system and blocking communications with sources you don't permit.
+
+PROMPT 4
+Identify at least two pros and two cons of this security tool.
+
+Cons of virus protection1. Anti-virus software can slow down the PC or network as it can use a lot of computer memory & hard disk space when installing and using it.2. Some security holes in the operating system and networking software give the viruses another entry point that bypasses the anti-virus software.Pros of virus protection1. Protection from Viruses and other worms.2. Very easy to install.

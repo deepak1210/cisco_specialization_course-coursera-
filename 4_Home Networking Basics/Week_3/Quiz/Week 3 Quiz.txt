@@ -1,0 +1,64 @@
+Week 3 Quiz
+LATEST SUBMISSION GRADE
+100%
+////////////////
+
+1. When is a client considered to be "authenticated" when using MAC address filtering to control network access to a wireless network?
+Ans: 
+when the access point verifies that the MAC address is in the MAC table and sends a confirmation message to the client
+
+
+2. What type of authentication do most access points use by default?
+Ans: open
+
+
+3. What wireless router configuration would reduce the risk of outsiders accessing or viewing content from your home network?
+Ans: encryption
+
+
+4. Which term is used for bulk advertising emails flooded to as many end users as possible?
+Ans: spam
+
+
+5. What is a characteristic of a computer worm?
+Ans: exploits vulnerabilities with the intent of propagating itself across a network
+
+
+6. How does a phisher typically contact a victim?
+Ans: email
+
+
+7. A network administrator attempted to access the company website and received a "page not found" error. The next day the administrator checked the web server logs and noticed that during the same hour that the site failed to load, there was an unusually large number of requests for the website home page. All of the requests originated from the same IP address. Given this information, what might the network administrator conclude?
+Ans: It is likely that someone attempted a DoS attack.
+
+
+8. Which three attacks exploit vulnerabilities in software? (Choose three.)¶
+Ans:
+worms
+Trojan horses
+viruses
+
+
+9. Which type of attack attempts to overwhelm network links and devices with useless data?
+Ans: denial of service
+
+
+10. What type of program installs and gathers personal information, including password and account information, from a computer without permission or knowledge of the user?
+Ans: spyware
+
+
+11. What type of attack is the ping of death?
+Ans: denial of service
+
+
+12. True or False?
+Authorized users are not considered a security threat to the network.
+Ans: false
+
+
+13. Which type of attack exploits human behavior to gain confidential information?​
+Ans: social engineering
+
+
+14. Which type of attack involves an attacker using a powerful computer to try a large number of possible passwords in rapid succession to gain access to a system​?
+Ans: brute force

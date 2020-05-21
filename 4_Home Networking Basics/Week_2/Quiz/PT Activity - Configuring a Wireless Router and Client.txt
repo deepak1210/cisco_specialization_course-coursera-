@@ -1,0 +1,16 @@
+PT Activity - Configuring a Wireless Router and Client
+LATEST SUBMISSION GRADE
+100%
+///////////////////////////////////////
+
+1. What three features can be implemented to help protect your wireless network? (Choose 3.)
+Ans:
+add a passphrase
+enable mac address filtering
+disable SSID broadcasting
+
+
+2. What two statements are true of the SSID? (Choose 2.)
+Ans:
+The SSID identifies a specific wireless network or the name of the network.
+The SSID is case-sensitive.

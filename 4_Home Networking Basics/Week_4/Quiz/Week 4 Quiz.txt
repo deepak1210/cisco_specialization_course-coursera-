@@ -1,0 +1,28 @@
+Week 4 Quiz
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////////////
+
+1. A ____ is a device usually installed between two or more networks to block undesirable traffic.
+Ans: firewall
+
+
+2. What two types of rules are typically created in the Advanced Settings of the Windows 10 Firewall? (Choose 2.)
+Ans:
+rules to allow/block programs
+rules to allow/block ports
+
+
+3. The _ is a part of the network that is used for servers which are accessible by both internal and external users.
+Ans: DMZ
+
+
+4. H3 needs to send a web request to the internal Web Server. What three actions are occurring inside of the wireless router in this transaction if a DMZ is created?
+Ans:
+The routing function drops any broadcasts from H3 but allows unicast traffic from H3 on port 80 or port 443 to the internal network.
+The firewall blocks traffic to H1 and H2 from H3 based on rules for ports, IP or MAC addresses.
+The switching function directs H3 traffic from the routing function to the specific port connected directly to the server.
+
+
+5. What is port triggering?
+Ans: a feature that allows the router to temporarily forward data through inbound TCP or UDP ports to a specific device

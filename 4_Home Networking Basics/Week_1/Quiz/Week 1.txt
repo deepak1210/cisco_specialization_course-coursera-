@@ -1,0 +1,28 @@
+Week 1 Quiz
+LATEST SUBMISSION GRADE
+100%
+////////////////////////////////////////////
+
+1. Refer to the exhibit. Which router port connects to the modem provided by the service provider?
+Ans: C
+
+
+2. What are three advantages of wireless over wired LAN technology? (Choose three.)
+Ans:
+ease of installation
+lower on-going costs
+ease of expansion
+
+
+3. What type of device is commonly connected to the Ethernet ports on a home wireless router?
+Ans: LAN device
+
+
+4. Which type of network technology is used for low-speed communication between peripheral devices?
+Ans: Bluetooth
+
+
+5. What purpose would a home user have for implementing Wi-Fi?​
+Ans: to create a wireless network usable by other devices
+6. What is CSMA/CA on a network?
+Ans: an access method that is used by wireless technology to avoid collisions
