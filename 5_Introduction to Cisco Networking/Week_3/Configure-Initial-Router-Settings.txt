@@ -1,0 +1,6 @@
+1. Refer to the activity. How many FastEthernet interfaces does the router have?
+Ans: 4
+
+
+2. What command was used to verify the router configurations?
+Ans: show running-config

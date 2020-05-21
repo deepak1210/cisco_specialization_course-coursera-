@@ -1,0 +1,2 @@
+1. What is true of the components or ports used on a router?
+Ans: AUX ports and SSH both allow remote access and management to the router.

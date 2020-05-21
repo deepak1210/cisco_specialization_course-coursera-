@@ -1,0 +1,6 @@
+1. What is the purpose of the bootstrap program?
+Ans: It finds and loads the router operating system.
+
+
+2. What is the significance of the three locations listed to the left of the Configuration block?¶
+Ans: The router will look in each of the locations in order until the configuration file is found.

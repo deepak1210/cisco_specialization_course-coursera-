@@ -1,0 +1,6 @@
+1. Which PC had the incorrect configurations?
+Ans: PC2
+
+
+2. What needed to be done to establish connectivity for the PC?
+Ans: correct the IP address

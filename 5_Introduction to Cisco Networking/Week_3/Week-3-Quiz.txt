@@ -1,0 +1,18 @@
+1. Which command can be used to encrypt all passwords in the configuration file?
+Ans: service password-encryption
+
+
+2. Which configuration step should be performed first when enabling SSH on a Cisco device?
+Ans: Configure an IP domain name.
+
+
+3. What is the purpose of assigning an IP address to the VLAN1 interface on a Cisco Layer 2 switch?
+Ans: to enable remote access to the switch to manage it
+
+
+4. What is the purpose of configuring a default gateway address on a host?
+Ans: to identify the device that allows local network computers to communicate with devices on other networks
+
+
+5. Perform the tasks in the activity instructions and then answer the question.
+Ans: Correct

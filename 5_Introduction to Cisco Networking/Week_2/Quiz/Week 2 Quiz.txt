@@ -1,0 +1,18 @@
+1. A network administrator is working on a Cisco router. The CLI prompt is Router1(config-if)#. Which operation is the administrator likely to configure next?
+Ans: a LAN interface
+
+
+2. What is the difference between the terms keyword and argument in the IOS command structure?
+Ans: A keyword is a specific parameter. An argument is not a predefined variable.
+
+
+3. A network administrator is troubleshooting inter-connection issues between routers. Which show command can be used to check which networks the router is connected?
+Ans: show ip route
+
+
+4. While troubleshooting a network problem, a network administrator issues the show version command on a router. What information can be found by using this command?
+Ans: the amount of NVRAM, DRAM, and flash memory installed on the router
+
+
+5. Which Cisco IOS mode displays a prompt of Router#?
+Ans: privileged EXEC mode

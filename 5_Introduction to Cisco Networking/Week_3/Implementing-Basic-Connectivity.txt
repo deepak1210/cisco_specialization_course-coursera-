@@ -1,0 +1,6 @@
+1. During the activity, you issued the command show ip interface brief on the switch S1. What results were displayed?
+Ans: ip address of the S1 switch virtual interface
+
+
+2. What command is used to save the switch configuration?
+Ans: copy running-config startup-config

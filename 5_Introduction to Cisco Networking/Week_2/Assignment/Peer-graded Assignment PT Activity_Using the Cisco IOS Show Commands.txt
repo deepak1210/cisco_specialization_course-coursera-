@@ -1,0 +1,39 @@
+PROMPT 1
+Refer to the activity. In the PT Activity, you issued the show ip route command? What is represented by this command and why does the router store these entries?
+
+ISPRouter#show ip route
+
+The show ip route shows the routing table. A router creates a routing table that lists the different networks that it can reach. The router uses the routing table to forward traffic between different networks.
+
+Below shown are details of IP route:-
+
+209.165.201.0/24 is variably subnetted, 2 subnets, 2 masks
+
+C 209.165.201.0/27 is directly connected, GigabitEthernet0/0
+
+L 209.165.201.1/32 is directly connected, GigabitEthernet0/0
+
+
+PROMPT 2
+Refer to the activity. Read both parts of the question and provide answers for both.
+
+Part1. What type of information were you able to gain in user EXEC mode?
+
+Part 2. What do you think should be done to prevent this type of information from being viewed by unauthorized users?
+
+1. Surface pieces of information about the whole network like routing table, version of the router, MAC and IP address information, device model about IOS file information, bootstrap info.
+2. To activate a user EXEC mode with a secure password authentication or passphrase.
+
+
+PROMPT 3
+Refer to the activity. What is the IP address of the GigabitEthernet 0/0 interface. (Hint: It is in the output of several of the show commands.) Why is this address important to the network? What is the routers relationship to the ISP PC?
+
+Address:- 209.165.201.1/32
+It is the default gateway address used by the internal network. The PC packets are delivered to the external network by means of the default gateway of the ISP router. ISP PC will send traffic to the router when information must go to a different network.
+
+
+PROMPT 4
+Refer to the activity. When you access the router through the Terminal program, how are are you accessing the router? (Include in your response the port used and whether it is In-band management, out-of-band management, or through the network.)
+
+Out-band mode (console port was directly connected to the router).
+The PC did not access the router through the network. The router was accessed through the physical router port.

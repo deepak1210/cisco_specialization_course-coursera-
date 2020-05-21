@@ -1,0 +1,71 @@
+1. A user calls the help desk to report a workstation problem. Which three questions would produce the most helpful information for troubleshooting? (Choose three.)
+Ans:
+If you received an error message, what was it?
+What changes have you made to your workstation?
+What operating system version is running on your workstation?
+
+
+2. A network administrator can successfully ping the server at www.cisco.com, but cannot ping the company web server located at an ISP in another city. Which tool or command would help identify the specific router where the packet was lost or delayed?
+Ans: traceroute
+
+
+3. Which command would a technician use to display network connections on a host computer?
+Ans: netstat
+
+
+4. A customer called the cable company to report that the Internet connection is unstable. After trying several configuration changes, the technician decided to send the customer a new cable modem to try. What troubleshooting technique does this represent?
+Ans: substitution
+
+
+5. A small office uses a wireless router to connect to a cable modem for Internet access. The network administrator receives a call that one office computer cannot access external websites. The first troubleshooting step that the network administrator performs is to ping the wireless router from the office computer. Which troubleshooting technique does this represent?
+Ans: divide-and-conquer
+
+
+6. Using a systematic troubleshooting approach, a help desk technician suspects a problem at Layer 3 of the OSI model. In gathering information, which two questions are associated with Layer 3? (Choose two.)
+Ans:
+From the PC, is the default gateway reachable using the ping command?
+Is the PC configured for DHCP?
+
+
+7. A small SOHO uses a wireless integrated router for employee workstations to connect to the Internet. For security consideration, the SSID is not broadcast and the IP address configuration is provided by the DHCP server in the router. An employee reports that the workstation cannot connect to the Internet. A technician verifies that other workstations can successfully connect to the Internet. What are two possible reasons for the problem? (Choose two.)
+Ans:
+The wireless client is not configured for DHCP.
+An invalid SSID is configured.
+
+
+8. During a move, employee workstations were disconnected from the network and reconnected in new offices. However, after the move a few workstations cannot get a valid IP address. What should be checked first to identify the root cause of the problem?
+Ans: Make sure the cables are functional and properly plugged.
+
+
+9. The home computer of a user is working properly. However, the user cannot access the Internet. The Internet connection is provided through a cable company. The user cannot identify the cause of the problem. Who should the user contact for further help?
+Ans: the help line of the cable company
+
+
+10. What are two common causes of a physical layer network connectivity problem? (Choose two.)
+Ans:
+an Ethernet cable plugged into a wrong port
+a faulty Ethernet cable
+
+
+11. How does an activity LED on wireless routers indicate that traffic is moving through a port?
+Ans: by flashing
+
+
+12. Refer to the exhibit. A web designer calls to report that the web server web-s1.cisco.com is not reachable through a web browser. The technician uses command line utilities to verify the problem and to begin the troubleshooting process. Which two things can be determined about the problem? (Choose two.)
+Ans:
+The web server at 192.168.0.10 is reachable from the source host.
+DNS cannot resolve the IP address for the server web-s1.cisco.com.
+
+
+13. A technician has been asked to troubleshoot a simple network problem that seems to be caused by software. Which troubleshooting approach should be used?
+Ans: top-down
+
+
+14. A customer calls the help line to report a computer problem. The help line technician responds and works with the customer for some time. However, the technician cannot identify the root cause of the problem. What should the technician do to help the customer?
+Ans: Tell the customer that a ticket is created and another technician will contact the user soon.
+
+
+15. network technician enters the command ipconfig /release followed by ipconfig /renew in order to ensure that the DHCP IP configuration on a workstation is updated. However, the workstation does not receive a valid IP configuration for the network. Which two problems may exist on the network? (Choose two.)
+Ans:
+There is a DHCP server issue.
+There is no network connectivity to the DHCP server.

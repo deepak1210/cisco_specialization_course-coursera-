@@ -1,0 +1,14 @@
+1. When you first log into the router, in which command mode do you enter as indicated by the > symbol?
+Ans: user EXEC mode
+
+
+2. In which mode can you issue the ? command for help?
+Ans: in all configuration modes
+
+
+3. What is the result of pressing the Tab key after entering part of a command?
+Ans: The remaining portion of the command is displayed.
+
+
+4. Which mode does not allow the execution of any commands that might change the configuration of the device?
+Ans: user EXEC mode

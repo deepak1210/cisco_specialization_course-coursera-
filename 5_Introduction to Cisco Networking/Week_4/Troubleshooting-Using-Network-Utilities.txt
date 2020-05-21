@@ -1,0 +1,13 @@
+1. Which four commands can be used on a Windows PC to help troubleshoot network connectivity issues? (Choose 4.)
+Ans:
+tracert
+netstat
+ping
+nslookup
+
+
+2. What three problems can cause a computer to receive an APIPA address from the address range 169.254.0.0/16? (Choose 3.)
+Ans:
+There are no more available addresses in the DHCP pool.
+There is no DHCP server on the network.
+The DHCP server is inaccessible from this computer.

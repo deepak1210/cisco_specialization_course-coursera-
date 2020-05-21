@@ -1,0 +1,2 @@
+1. Why the Telnet attempt fail in Part 3 of the activity?
+Ans: The vty lines were configured for SSH access only.

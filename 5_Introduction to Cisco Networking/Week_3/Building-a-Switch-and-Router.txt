@@ -1,0 +1,9 @@
+1. What three things were configured the same on the router and the switch? (Choose 3.)
+Ans:
+privileged EXEC mode password
+console password
+service password-encryption
+
+
+2. Why is the default gateway for PC-A different than the default gateway for PC-B?
+Ans: PC-A and PC-B are on different networks.

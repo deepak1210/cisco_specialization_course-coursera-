@@ -1,0 +1,6 @@
+1. Which PC was unable to connect to the web server?
+Ans: PC2
+
+
+2. What was the most likely cause of the issue?
+Ans: The DNS configuration on the PC was incorrect.

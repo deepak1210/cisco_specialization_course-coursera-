@@ -1,0 +1,12 @@
+1. What type of program was used to access the switch configuration through the console port?
+Ans: a terminal emulation program
+
+
+2. What type of cable was used to connect the PC to the console port of the switch?
+Ans: console cable
+
+
+3. Refer to the activity. After the reload command was issues, there was a series of ########. What two things are occurring when this sequence of signs was displaying? (Choose 2.)
+Ans:
+The LEDs blink.
+The LEDs blink.

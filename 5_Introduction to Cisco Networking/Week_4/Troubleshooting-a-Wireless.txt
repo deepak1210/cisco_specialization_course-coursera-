@@ -1,0 +1,10 @@
+1. Which PC is having issues connecting to the web server?
+Ans: PC1
+
+
+2. In Step 2, what IP address was assigned to the PC that was unable to connect to the web server?
+Ans: 169.254.122.96
+
+
+3. Why was the PC unable to connect to the web server?
+Ans: The PC was not connected to the wireless router.
